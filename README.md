@@ -1,17 +1,17 @@
 
-HR Attrition Analysis | Tableau Dashboard
+**HR Attrition Analysis | Tableau Dashboard**
 
-Overview
+**Overview**
 
 This project focuses on analyzing employee attrition to understand the main factors influencing workforce turnover. The analysis integrates multiple HR dimensions including demographics, compensation, experience, engagement, and organizational structure to provide actionable insights for HR strategy and talent retention.
 
 The dashboard was built using Tableau to deliver an interactive and executive-friendly visualization of attrition trends and workforce patterns.
 
-Business Objective
+**Business Objective**
 
 The primary objective of this project is to identify the key drivers of employee attrition and support HR leaders in designing data-driven retention strategies. By analyzing attrition across departments, job roles, career stages, and satisfaction levels, the organization can reduce turnover costs and improve workforce stability.
 
-Key KPIs Tracked
+**Key KPIs Tracked**
 
 Total Employees
 
@@ -29,7 +29,7 @@ Attrition by Satisfaction & Engagement Factors
 
 Attrition by Demographics & Experience
 
-Dashboard Structure
+**Dashboard Structure**
 1. Executive Overview
 
 Provides a high-level summary of workforce metrics including total employees, attrition rate, and key breakdowns by department, job role, gender, and overtime.
@@ -74,7 +74,7 @@ Work-Life Balance
 
 Overtime (no significant difference observed)
 
-Key Insights
+**Key Insights**
 
 Attrition rate (16.12%) is above the ideal HR benchmark, indicating a retention risk.
 
@@ -112,7 +112,7 @@ Project Value
 
 This dashboard enables proactive attrition monitoring, supports strategic workforce planning, and helps HR departments focus on high-risk employee segments through data-driven insights rather than assumptions.
 
-Future Improvements
+**Future Improvements**
 
 Predictive attrition modeling using Machine Learning
 
